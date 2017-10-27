@@ -2,6 +2,6 @@ myproperty2: hi60
 
 config:
   hub:
-    msg1: messaggio 11111
-    msg2: messaggio 22222
+    msg1: messaggio 111111
+    msg2: messaggio 222222
     
